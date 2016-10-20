@@ -18,7 +18,7 @@ permalink: /blog/:year/:month/:day/:title.html
 front_page_news: 8
 
 # Base pathname for links.
-base: 'https://github.com/kevinj7/dfs-website-demo'
+base: 'https://kevinj7.github.io/dfs-website-demo'
 
 navigation:
     - title: Home
